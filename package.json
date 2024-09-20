@@ -1,0 +1,31 @@
+{
+  "name": "smart-contract-zombie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winterbreaker22/Smart-Contract-Zombie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winterbreaker22/Smart-Contract-Zombie/issues"
+  },
+  "homepage": "https://github.com/winterbreaker22/Smart-Contract-Zombie#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bn.js": "^5.2.1",
+    "loom-js": "^1.90.0",
+    "loom-truffle-provider": "^0.13.0",
+    "openzeppelin-solidity": "^3.4.2",
+    "truffle": "^5.11.5"
+  }
+}
